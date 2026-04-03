@@ -1,0 +1,218 @@
+
+.logo
+{
+	float:left;
+	color:black;
+	font-size:30px;
+	font-weight:bolder;
+	margin-top:-10px;
+	margin-left:100px;
+	background-color:#cc6600;
+	border-radius:10px;
+	padding-left:10px;
+
+}
+@media screen and (max-width:1000px ){
+	.logo{
+		margin-left:140px;
+
+	}
+}
+.logo i
+{
+	background-color: white;
+	font-weight: bold;
+	padding:10px;
+	color:#CC6600;
+	font-family: 'Courier New', Courier, monospace;
+}
+.header
+{
+	text-align:center;
+	padding:10px;
+	margin-top:10px;
+	padding-top:20px;
+}
+@media screen and (max-width:1000px ){
+	.header{
+		width: 480px;margin-left:0px;
+
+	}
+}
+
+.header a
+{
+	margin-left:20px;
+	color:black;
+	font-size:18px;
+	
+}
+@media screen and (max-width:1000px ){
+	.header a{
+		width: 480px;margin-left:10px;
+		font-size:16px;
+	}
+}
+.header a:hover
+{
+    text-decoration: none;
+}
+#myvideo
+{
+	position:;
+	right:0px;
+	bottom:0;
+	margin-top:20px;
+	width:700px;
+	height:200px;
+    margin-left: -10px;
+	
+}
+@media screen and (max-width:1000px ){
+	#myvideo{
+		width: 480px;margin-left:0px;
+		
+	}
+}
+#mybtn
+{
+	width:470px;
+	font-size:30px;
+	padding:6px;
+	background-color:#CC6600;
+	color:black;
+	position: relative;
+	cursor:pointer;
+	margin-left:105px;
+	border-radius:px;
+    margin-top: px;
+    border: none;
+     font-family: fantasy;
+}
+@media screen and (max-width:1000px ){
+	#mybtn{
+		width: 470px;margin-left:5px;
+
+	}
+}
+#mybtn:hover
+{
+	background:  #CCCCCC;
+	color: white;
+}
+    
+.bank
+{
+	background-color:#CC6600;
+	margin-left:100px;
+	margin-top:10px;
+	width:86%;
+	padding-top:10px;
+	padding-bottom:10px;
+	text-align:center;
+	color:white;
+}
+@media screen and (max-width:1000px ){
+	.bank{
+		width: 480px;margin-left:0px;
+
+	}
+}
+ p
+{
+	margin-left:100px;
+	margin-top:10px;
+	width:86%;
+}
+@media screen and (max-width:1000px ){
+	p{
+		width: 480px;margin-left:10px;
+
+	}
+}
+p.
+{
+	margin-left:10px;
+}
+.fa-check-circle
+{
+    color: green;
+    font-size:30px;
+}
+.fa-times-circle
+{
+    color: red;
+    font-size:30px;
+}
+h4 .fa
+{
+	color:black;
+	font-size:30px;
+}
+.buy-btn
+{
+
+        
+        border-radius: 3px;
+        display: inline-block;
+        font-size: 16px;
+        transition: 0.5s;
+        margin-top:10px;
+        height:82%;
+        text-align:center;
+        width:24%;
+        padding:10px;
+        border-radius:10px;
+        
+}
+.buy-btn .fa
+{
+	font-size:240px;
+	color:black;
+}
+
+
+/*------about-------*/
+
+
+.mission
+{
+	margin-left:550px;
+	margin-top:-250px;
+	width:400px;
+	
+}
+@media screen and (max-width:1000px ){
+	.mission{
+		margin-left:10px;
+		margin-top:40px;
+	}
+}
+.mission p,.misssion ul, .mission li
+{
+	font-size:16px;
+}
+
+button
+{
+	background-color: #CC6600;
+	padding:10px;
+	border-color:#cc6600;
+	border-radius:10px;
+	font-size:20px;
+}
+
+/*-----footer------*/
+#footer
+{
+    background: #333;
+    color: white;
+    padding: 20px;padding-top:20px;
+    margin-top:125px;
+}
+@media screen and (max-width:1000px ){
+	#footer{
+		width: 480px;margin-top:-10px;
+
+	}
+}
